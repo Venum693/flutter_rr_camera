@@ -39,6 +39,20 @@ dependencies:
   flutter_image_compress: ^2.0.3
   camera: ^0.9.4+5
   image_picker: ^0.8.4+4
+  # google_fonts: ^5.0.0
+  google_fonts: ^4.0.4
+  readmore: ^2.2.0
+  carousel_slider: ^4.2.1
+  flutter_riverpod: ^2.3.6
+  dio: ^5.2.1+1
+  flutter_snake_navigationbar: ^0.6.1
+  audioplayers: ^4.1.0
+  flutter_sound: ^9.2.13
+  geolocator: ^7.2.0
+  geocoding: ^2.1.0
+  date_time_format: ^2.0.1
+  permission_handler: ^10.3.0
+
 
 
 dev_dependencies:
